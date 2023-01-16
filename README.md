@@ -1,5 +1,5 @@
 # Rocketseat - Ignite Timer
-Conceitos importantes do ecossistema React como ContextAPI, useReducer, immer e muito mais.
+##Conceitos importantes do ecossistema React como ContextAPI, useReducer, immer e muito mais.
 
 <img src="./public/readme-images/home.png" />
 
